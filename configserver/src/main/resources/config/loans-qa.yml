@@ -1,0 +1,11 @@
+
+build:
+  version: "2.2"
+
+loans:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Shwetha-Tester"
+    email: "shwetha@learningbytes.com"
+  onCallSupport:
+    9986647589

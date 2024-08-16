@@ -1,0 +1,11 @@
+
+build:
+  version: "2.1"
+
+cards:
+  message: "Welcome to EazyBank cards related qa APIs"
+  contactDetails:
+    name: "shwetha-Tester"
+    email: "shweha@learningbytes.com"
+  onCallSupport:
+    9986647589

@@ -1,0 +1,11 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "satya-Developer"
+    email: "satya@learningbytes.com"
+  onCallSupport:
+    9986647589

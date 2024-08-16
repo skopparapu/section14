@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related qa APIs"
+  contactDetails:
+    name: "mahesh-qa"
+    email: "mahesh@learningbytes.com"
+  onCallSupport:
+    9986612345
